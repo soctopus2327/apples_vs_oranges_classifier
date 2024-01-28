@@ -1,6 +1,8 @@
-# appc
+# Apples vs Oranges Classifier
 
-A new Flutter project.
+An app that picks images from google drive and classifies them as Apple or orange and shows the confidence
+
+Demo Video: [https://drive.google.com/file/d/19CS18M74PJaQT-sQkJSVC1vuLKYAOM8Q/view?usp=drive_link](url)
 
 ## Getting Started
 
