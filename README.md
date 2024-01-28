@@ -1,6 +1,6 @@
-# Apples vs Oranges Classifier
+# Apples vs Oranges Classifier App
 
-An app that picks images from google drive and classifies them as Apple or orange and shows the confidence
+An app that picks images from google drive and classifies them as Apple or Orange and shows the confidence
 
 Demo Video: [https://drive.google.com/file/d/19CS18M74PJaQT-sQkJSVC1vuLKYAOM8Q/view?usp=drive_link](url)
 
